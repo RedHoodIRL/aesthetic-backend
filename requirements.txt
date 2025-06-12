@@ -1,3 +1,5 @@
 fastapi
 uvicorn
-python-multipart
+torch
+pillow
+clip 
